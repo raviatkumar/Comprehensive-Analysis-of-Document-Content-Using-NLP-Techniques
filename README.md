@@ -6,6 +6,8 @@
 
 In today's data-driven world, efficiently processing and extracting meaningful information from textual data is crucial for various applications, ranging from information retrieval to content recommendation. This project aims to analyze and process the content of two documents, each containing multiple sections like titles, introductions, and images, by applying a series of Natural Language Processing (NLP) techniques. The main goal is to clean, extract, summarize, and model the textual data to uncover valuable insights and facilitate better understanding and usage of the documents.
 
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Comprehensive-Analysis-of-Document-Content-Using-NLP-Techniques/main/Images/text.jpg)
+
 #### Objectives:
 
 1. **Text Preprocessing**:
